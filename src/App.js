@@ -57,6 +57,6 @@ function App() {
   );
 }
 
-// This developer thing don dey tire me
+// This developer thing don dey tire me fr
 
 export default App;
