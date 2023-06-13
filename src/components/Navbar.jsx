@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import ReactSwitch from "react-switch";
-import Me from "../img/IMG_5267.JPG";
+// import Me from "../img/IMG_5267.JPG";
 import { signOut } from "firebase/auth";
 import { auth } from "../firebase";
 import { AuthContext } from "../context/AuthContext";

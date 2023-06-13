@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import Me from "../img/IMG_5267.JPG";
+// import Me from "../img/IMG_5267.JPG";
 import {
   collection,
   query,
@@ -10,7 +10,7 @@ import {
   serverTimestamp,
 } from "firebase/firestore";
 import { db } from "../firebase";
-import { async } from "@firebase/util";
+// import { async } from "@firebase/util";
 import { doc, getDoc, setDoc } from "firebase/firestore";
 import { createContext } from "react";
 import { AuthContext } from "../context/AuthContext";
